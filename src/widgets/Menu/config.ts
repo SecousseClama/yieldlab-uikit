@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "https://exchange.yieldlab.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "https://exchange.yieldlab.finance/#/pool",
       },
     ],
   },
@@ -55,7 +55,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://yieldlab.gitbook.io/viking-swap/",
       },
       {
         label: "Blog",
@@ -76,14 +76,14 @@ export const socials = [
       },
       {
         label: "Announcements",
-        href: "https://t.me/vikingswapannouncements",
+        href: "https://t.me/yieldlabannouncements",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/vikingswap",
+    href: "https://twitter.com/yieldlab",
   },
 ];
 
