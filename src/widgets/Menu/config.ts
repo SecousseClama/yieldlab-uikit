@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/yieldlabDefi/",
       },
       {
         label: "Docs",
-        href: "https://yieldlab.gitbook.io/viking-swap/",
+        href: "https://yieldlab.gitbook.io/yieldlab-swap/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://yieldlab-swap.medium.com/",
       },
     ],
   },
@@ -72,7 +72,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "http://t.me/VikingSwap",
+        href: "http://t.me/yieldlabSwap",
       },
       {
         label: "Announcements",
