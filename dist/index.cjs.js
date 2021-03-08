@@ -2069,10 +2069,10 @@ var socials = [
                 label: "English",
                 href: "http://t.me/yieldlabSwap",
             },
-            {
+            /* {
                 label: "Announcements",
                 href: "https://t.me/yieldlabannouncements",
-            },
+            },*/
         ],
     },
     {
