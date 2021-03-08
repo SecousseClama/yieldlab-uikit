@@ -2054,7 +2054,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/yieldlabSwap",
+                href: "http://t.me/yieldlab",
             },
             /* {
                 label: "Announcements",
@@ -2065,7 +2065,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/yieldlab",
+        href: "https://twitter.com/YieldLabFinance",
     },
 ];
 var MENU_HEIGHT = 64;
