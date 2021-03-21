@@ -1,6 +1,6 @@
 {
   "name": "@secousse/yieldlab-uikit",
-  "version": "0.10.7",
+  "version": "0.12.1",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
