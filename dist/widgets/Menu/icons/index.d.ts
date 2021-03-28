@@ -1,6 +1,6 @@
 export { default as FarmIcon } from "./Farm";
 export { default as GroupsIcon } from "./Groups";
-export { default as RoadMapIcon } from "./RoadMap";
+export { default as RoadMapIcon } from "./MoreIcon";
 export { default as RoadMapCloseIcon } from "./RoadMapClose";
 export { default as HomeIcon } from "./Home";
 export { default as IfoIcon } from "./Ifo";
