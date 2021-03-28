@@ -1828,8 +1828,11 @@ var Icon$I = function (props) {
 
 var Icon$J = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React.createElement("path", { d: "M4 18H20C20.55 18 21 17.55 21 17C21 16.45 20.55 16 20 16H4C3.45 16 3 16.45 3 17C3 17.55 3.45 18 4 18ZM4 13H20C20.55 13 21 12.55 21 12C21 11.45 20.55 11 20 11H4C3.45 11 3 11.45 3 12C3 12.55 3.45 13 4 13ZM3 7C3 7.55 3.45 8 4 8H20C20.55 8 21 7.55 21 7C21 6.45 20.55 6 20 6H4C3.45 6 3 6.45 3 7Z" })));
-};
+        React.createElement("path", { d: "M0 0H22.832V24H0z" }),
+        React.createElement("path", { d: "M358.516 0h-5.792a.724.724 0 00-.724.724v7.24a.724.724 0 101.448 0V5.792h5.068a.724.724 0 00.724-.724V.724a.724.724 0 00-.724-.724z" }),
+        React.createElement("path", { d: "M80.375 229.792h-6.823a1.451 1.451 0 010-2.9h1.49a2.054 2.054 0 001.921 1.448 2.176 2.176 0 000-4.344 2.053 2.053 0 00-1.921 1.448h-1.49a2.9 2.9 0 000 5.792h6.823a1.451 1.451 0 010 2.9H67.968a2.054 2.054 0 00-1.921-1.448 2.176 2.176 0 000 4.344 2.053 2.053 0 001.921-1.448h12.407a2.9 2.9 0 000-5.792z" }),
+        React.createElement("path", { d: "M5.068 96A5.074 5.074 0 000 101.068c0 2.6 4.066 7.207 4.529 7.724a.724.724 0 001.077 0c.463-.517 4.529-5.123 4.529-7.724A5.074 5.074 0 005.068 96zm0 7.24a2.172 2.172 0 112.172-2.172 2.173 2.173 0 01-2.172 2.172z" })));
+    };
 
 var Icon$K = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
@@ -1931,8 +1934,8 @@ var IconModule = /*#__PURE__*/Object.freeze({
     __proto__: null,
     FarmIcon: Icon$H,
     GroupsIcon: Icon$I,
-    HamburgerIcon: Icon$J,
-    HamburgerCloseIcon: Icon$K,
+    RoadMapIcon: Icon$J,
+    RoadMapCloseIcon: Icon$K,
     HomeIcon: Icon$L,
     IfoIcon: Icon$M,
     InfoIcon: Icon$N,

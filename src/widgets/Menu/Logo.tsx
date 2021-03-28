@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { LogoIcon } from "../../components/Svg";
 import Flex from "../../components/Flex/Flex";
-import { HamburgerIcon, HamburgerCloseIcon, LogoIcon as LogoWithText } from "./icons";
+import { RoadMapIcon, RoadMapCloseIcon, LogoIcon as LogoWithText } from "./icons";
 import MenuButton from "./MenuButton";
 
 interface Props {
@@ -44,9 +44,9 @@ const Logo: React.FC<Props> = ({ isPushed, togglePush, isDark, href }) => {
     <Flex>
       <MenuButton aria-label="Toggle menu" onClick={togglePush} mr="24px">
         {isPushed ? (
-          <HamburgerCloseIcon width="24px" color="textSubtle" />
+          <RoadMapCloseIcon width="24px" color="textSubtle" />
         ) : (
-          <HamburgerIcon width="24px" color="textSubtle" />
+          <RoadMapIcon width="24px" color="textSubtle" />
         )}
       </MenuButton>
       {isAbsoluteUrl ? (
