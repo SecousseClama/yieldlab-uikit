@@ -2063,16 +2063,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/yieldlab",
-            },
-            /* {
-                label: "Announcements",
-                href: "https://t.me/yieldlabannouncements",
-            },*/
-        ],
+        href: "https://t.me/yieldlab",
+    },
+    {
+        label: "Twitter",
+        icon: "TwitterIcon",
+        href: "https://twitter.com/YieldLabFinance",
     },
     {
         label: "Twitter",
